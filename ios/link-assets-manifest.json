@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/YsabeauInfant-Bold.ttf",
+      "sha1": "104cc3778ac6f0aef0c5eb94cb777f814f32a1ad"
+    },
+    {
+      "path": "assets/fonts/YsabeauInfant-Light.ttf",
+      "sha1": "1347907bc1596163ab9fb22999a543611333f43b"
+    },
+    {
+      "path": "assets/fonts/YsabeauInfant-Medium.ttf",
+      "sha1": "277307d369f3efff7b38804d516eaccac22a1123"
+    },
+    {
+      "path": "assets/fonts/YsabeauInfant-Thin.ttf",
+      "sha1": "cd7bae3df76234187ee88bb021a4de753acfbcbd"
+    }
+  ]
+}
